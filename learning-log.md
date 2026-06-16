@@ -1,0 +1,8 @@
+# Learning Log
+
+A daily record of AI/ML learning progress and project work.
+New entries are appended automatically by GitHub Actions once per day.
+
+## 2026-06-16
+Daily AI/ML learning progress update.
+Focus: GitHub automation, coding consistency, and project documentation.

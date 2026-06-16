@@ -1,0 +1,75 @@
+# Name shown in the GitHub "Actions" tab
+name: Daily Update
+
+# ---------------------------------------------------------------------------
+# WHEN should this workflow run?
+# ---------------------------------------------------------------------------
+on:
+  # 1) Run automatically on a schedule (cron).
+  #    The time below is in UTC, NOT your local time zone.
+  #    "30 1 * * *" means: every day at 01:30 UTC.
+  #    Cron format:  minute hour day-of-month month day-of-week
+  schedule:
+    - cron: "30 1 * * *"
+
+  # 2) Allow running the workflow manually from the GitHub UI
+  #    (Actions tab -> Daily Update -> "Run workflow" button).
+  workflow_dispatch:
+
+# ---------------------------------------------------------------------------
+# Permissions: the job needs write access to push commits back to the repo.
+# ---------------------------------------------------------------------------
+permissions:
+  contents: write
+
+jobs:
+  daily-update:
+    # Use the latest Ubuntu runner provided free by GitHub.
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Download (checkout) the repository code onto the runner
+      # so we can read and modify the files.
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Configure Git with the official github-actions bot identity.
+      # This makes the automated commits show up as "github-actions[bot]".
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      # Step 3: Update activity.txt with the current date and time (UTC).
+      # The ">" overwrites the file so it always holds the latest timestamp.
+      - name: Update activity.txt
+        run: |
+          echo "Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > activity.txt
+
+      # Step 4: Append a new daily entry to learning-log.md.
+      # ">>" appends so previous entries are preserved.
+      - name: Append daily learning log entry
+        run: |
+          {
+            echo ""
+            echo "## $(date -u '+%Y-%m-%d')"
+            echo "Daily AI/ML learning progress update."
+            echo "Focus: GitHub automation, coding consistency, and project documentation."
+          } >> learning-log.md
+
+      # Step 5: Commit and push the changes.
+      # The "if" guard checks whether anything actually changed.
+      # If there are no changes, we skip the commit so the job does NOT fail.
+      - name: Commit and push changes
+        run: |
+          # Stage all modified files.
+          git add -A
+
+          # "git diff --cached --quiet" exits with code 0 when there is
+          # nothing staged, and code 1 when there ARE staged changes.
+          if git diff --cached --quiet; then
+            echo "No changes detected. Exiting safely."
+          else
+            git commit -m "chore: daily activity and learning log update ($(date -u '+%Y-%m-%d'))"
+            git push
+          fi
