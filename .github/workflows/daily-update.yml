@@ -1,4 +1,4 @@
-name: Daily Update
+name: Daily Profile Update
 
 on:
   schedule:
@@ -27,41 +27,104 @@ jobs:
           git config user.name "adityasoni234"
           git config user.email "adityaksoni234@gmail.com"
 
-      - name: Update activity file
+      - name: Generate daily content
         run: |
-          echo "Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > activity.txt
-
-      - name: Update learning log
-        run: |
+          DATE=$(date -u '+%Y-%m-%d')
+          TIME=$(date -u '+%H:%M:%S UTC')
           HOUR=$(date -u '+%H')
+          DAY_OF_WEEK=$(date -u '+%u')   # 1=Mon … 7=Sun
+          DAY_OF_YEAR=$(date -u '+%j')   # 1-365, used to rotate topics
 
-          if [ "$HOUR" = "04" ]; then
-            SESSION="Morning (10:00 AM IST)"
-          elif [ "$HOUR" = "08" ]; then
-            SESSION="Afternoon (02:00 PM IST)"
-          elif [ "$HOUR" = "13" ]; then
-            SESSION="Evening (07:00 PM IST)"
-          else
-            SESSION="Night (10:00 PM IST)"
+          # ── Session label ────────────────────────────────────────────────
+          if   [ "$HOUR" = "04" ]; then SESSION="Morning   (10:00 AM IST)"
+          elif [ "$HOUR" = "08" ]; then SESSION="Afternoon (02:00 PM IST)"
+          elif [ "$HOUR" = "13" ]; then SESSION="Evening   (07:00 PM IST)"
+          else                          SESSION="Night     (10:00 PM IST)"
           fi
 
+          # ── Rotate through 14 realistic topics ───────────────────────────
+          TOPICS=(
+            "Neural Networks & Backpropagation"
+            "Data Preprocessing & Feature Engineering"
+            "Python OOP — design patterns in ML pipelines"
+            "NLP fundamentals — tokenisation & embeddings"
+            "Model Evaluation — precision, recall, F1, AUC"
+            "CNNs — convolution, pooling, receptive fields"
+            "Pandas & NumPy vectorisation techniques"
+            "Hyperparameter tuning with Optuna"
+            "Transformer architecture & attention mechanism"
+            "Git workflows — branching, rebasing, CI/CD"
+            "Audio signal processing — MFCC & spectrograms"
+            "Reinforcement Learning basics — Q-learning"
+            "Docker & model containerisation"
+            "REST API design for ML model serving"
+          )
+          TOPIC_IDX=$(( (DAY_OF_YEAR + HOUR) % ${#TOPICS[@]} ))
+          TOPIC="${TOPICS[$TOPIC_IDX]}"
+
+          # ── Rotate through commit message styles ──────────────────────────
+          COMMIT_STYLES=(
+            "docs: learning log — $TOPIC"
+            "chore: daily progress update — $TOPIC"
+            "study: $TOPIC ($DATE)"
+            "log: session notes on $TOPIC"
+            "update: progress tracker — $TOPIC"
+            "notes: $TOPIC practice"
+            "track: daily coding — $TOPIC"
+          )
+          COMMIT_IDX=$(( (DAY_OF_YEAR + HOUR * 3) % ${#COMMIT_STYLES[@]} ))
+          COMMIT_MSG="${COMMIT_STYLES[$COMMIT_IDX]}"
+
+          # ── Activity tracker (single line, always changes) ────────────────
+          echo "Last updated: $TIME | Session: $SESSION | Topic: $TOPIC" > activity.txt
+
+          # ── Append to learning log ────────────────────────────────────────
           {
             echo ""
-            echo "## $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-            echo "Session: $SESSION"
-            echo "Daily AI/ML learning progress update."
-            echo "Focus: GitHub automation, coding consistency, project development, and continuous learning."
+            echo "---"
+            echo "### $DATE — $SESSION"
+            echo "**Topic:** $TOPIC"
+            echo ""
+
+            case $((DAY_OF_YEAR % 5)) in
+              0) echo "- Reviewed core concepts and revised notes"
+                 echo "- Implemented a small prototype to validate understanding"
+                 echo "- Debugged an edge case and documented the fix"
+                 ;;
+              1) echo "- Read research paper / documentation on $TOPIC"
+                 echo "- Wrote summary notes and added code examples"
+                 echo "- Pushed practice code to a local branch"
+                 ;;
+              2) echo "- Worked through exercises on $TOPIC"
+                 echo "- Compared multiple approaches and benchmarked results"
+                 echo "- Updated project README with findings"
+                 ;;
+              3) echo "- Deep-dived into $TOPIC with hands-on coding"
+                 echo "- Refactored yesterday's code for clarity and efficiency"
+                 echo "- Opened issues for follow-up items"
+                 ;;
+              4) echo "- Weekly review — consolidated notes on $TOPIC"
+                 echo "- Planned next study sprint"
+                 echo "- Cleaned up repo, removed dead code, updated docs"
+                 ;;
+            esac
+
+            echo ""
+            echo "> Session ended at $TIME"
           } >> learning-log.md
 
-      - name: Commit and Push Changes
+          # Store commit message for next step
+          echo "$COMMIT_MSG" > /tmp/commit_msg.txt
+
+      - name: Commit and push
         run: |
           git add activity.txt learning-log.md
 
           if git diff --cached --quiet; then
-            echo "No changes detected."
+            echo "Nothing to commit."
             exit 0
           fi
 
-          git commit -m "🚀 Auto Update - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          COMMIT_MSG=$(cat /tmp/commit_msg.txt)
+          git commit -m "$COMMIT_MSG"
           git push
-          

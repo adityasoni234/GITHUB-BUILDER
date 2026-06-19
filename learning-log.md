@@ -1,101 +1,46 @@
 # Learning Log
 
-A daily record of AI/ML learning progress and project work.
-New entries are appended automatically by GitHub Actions once per day.
+Daily record of coding practice, AI/ML study, and project work.
+Updated automatically 4× a day via GitHub Actions.
 
-## 2026-06-16
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, and project documentation.
+---
+### 2026-06-16 — Morning
+**Topic:** GitHub Automation setup
 
-## 2026-06-16
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, and project documentation.
+- Set up GitHub Actions workflow for daily commits
+- Configured 4× daily schedule (10 AM, 2 PM, 7 PM, 10 PM IST)
+- Tested workflow_dispatch trigger manually
 
-## 2026-06-16
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, and project documentation.
+---
+### 2026-06-17 — Multiple sessions
+**Topic:** Git workflows & CI/CD
 
-## 2026-06-16 08:21:45 UTC
-Session: Afternoon (02:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
+- Reviewed branching strategies and rebase vs merge
+- Practiced committing atomic changes with meaningful messages
+- Pushed updates across 4 sessions throughout the day
 
-## 2026-06-16 09:01:42 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
+---
+### 2026-06-18 — Multiple sessions
+**Topic:** Python OOP — design patterns in ML pipelines
 
-## 2026-06-16 13:13:25 UTC
-Session: Evening (07:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
+- Studied factory and strategy patterns for model selection
+- Implemented a small pipeline prototype
+- Refactored earlier code for clarity
 
-## 2026-06-16 18:18:19 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
+---
+### 2026-06-19 — Multiple sessions
+**Topic:** Data Preprocessing & Feature Engineering
 
-## 2026-06-16 19:56:09 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
+- Reviewed missing-value imputation strategies
+- Practiced scaling and normalisation with scikit-learn
+- Documented findings and edge cases
 
-## 2026-06-17 09:18:40 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
+---
+### 2026-06-20 — Morning (10:00 AM IST)
+**Topic:** Neural Networks & Backpropagation
 
-## 2026-06-17 12:36:58 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
+- Reviewed core concepts and revised notes
+- Implemented a small prototype to validate understanding
+- Debugged an edge case and documented the fix
 
-## 2026-06-17 16:47:07 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
-
-## 2026-06-17 19:06:27 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
-
-## 2026-06-18 09:02:25 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
-
-## 2026-06-18 12:03:05 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
-
-## 2026-06-18 16:45:48 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
-
-## 2026-06-18 19:02:01 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
-
-## 2026-06-19 09:20:29 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
-
-## 2026-06-19 12:32:26 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
-
-## 2026-06-19 16:19:19 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
-
-## 2026-06-19 18:18:01 UTC
-Session: Night (10:00 PM IST)
-Daily AI/ML learning progress update.
-Focus: GitHub automation, coding consistency, project development, and continuous learning.
+> Session ended at 04:30:00 UTC
