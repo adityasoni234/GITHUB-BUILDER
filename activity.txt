@@ -1,1 +1,1 @@
-Last updated: 10:59:03 UTC | Session: Night     (10:00 PM IST) | Topic: REST API design for ML model serving
+Last updated: 15:22:51 UTC | Session: Night     (10:00 PM IST) | Topic: Model Evaluation — precision, recall, F1, AUC
