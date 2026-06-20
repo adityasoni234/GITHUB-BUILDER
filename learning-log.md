@@ -84,3 +84,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 15:22:51 UTC
+
+---
+### 2026-06-20 — Night     (10:00 PM IST)
+**Topic:** Pandas & NumPy vectorisation techniques
+
+- Read research paper / documentation on Pandas & NumPy vectorisation techniques
+- Wrote summary notes and added code examples
+- Pushed practice code to a local branch
+
+> Session ended at 17:55:27 UTC
