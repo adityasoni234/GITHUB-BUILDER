@@ -1,1 +1,1 @@
-Last updated: 08:45:56 UTC | Session: Afternoon (02:00 PM IST) | Topic: Neural Networks & Backpropagation
+Last updated: 11:32:05 UTC | Session: Night     (10:00 PM IST) | Topic: Data Preprocessing & Feature Engineering
