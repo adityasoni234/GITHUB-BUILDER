@@ -1,1 +1,1 @@
-Last updated: 10:22:11 UTC | Session: Night     (10:00 PM IST) | Topic: Data Preprocessing & Feature Engineering
+Last updated: 14:13:44 UTC | Session: Night     (10:00 PM IST) | Topic: CNNs — convolution, pooling, receptive fields
