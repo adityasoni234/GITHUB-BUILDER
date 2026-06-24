@@ -244,3 +244,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Debugged an edge case and documented the fix
 
 > Session ended at 15:53:42 UTC
+
+---
+### 2026-06-24 — Night     (10:00 PM IST)
+**Topic:** Reinforcement Learning basics — Q-learning
+
+- Reviewed core concepts and revised notes
+- Implemented a small prototype to validate understanding
+- Debugged an edge case and documented the fix
+
+> Session ended at 18:18:11 UTC
