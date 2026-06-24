@@ -1,1 +1,1 @@
-Last updated: 11:23:18 UTC | Session: Night     (10:00 PM IST) | Topic: Model Evaluation — precision, recall, F1, AUC
+Last updated: 15:53:42 UTC | Session: Night     (10:00 PM IST) | Topic: Transformer architecture & attention mechanism
