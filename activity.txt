@@ -1,1 +1,1 @@
-Last updated: 16:04:04 UTC | Session: Night     (10:00 PM IST) | Topic: Audio signal processing — MFCC & spectrograms
+Last updated: 18:33:34 UTC | Session: Night     (10:00 PM IST) | Topic: Docker & model containerisation
