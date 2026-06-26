@@ -304,3 +304,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Updated project README with findings
 
 > Session ended at 08:07:30 UTC
+
+---
+### 2026-06-26 — Night     (10:00 PM IST)
+**Topic:** Pandas & NumPy vectorisation techniques
+
+- Worked through exercises on Pandas & NumPy vectorisation techniques
+- Compared multiple approaches and benchmarked results
+- Updated project README with findings
+
+> Session ended at 11:25:16 UTC
