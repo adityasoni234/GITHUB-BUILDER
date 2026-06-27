@@ -334,3 +334,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Updated project README with findings
 
 > Session ended at 18:10:28 UTC
+
+---
+### 2026-06-27 — Night     (10:00 PM IST)
+**Topic:** NLP fundamentals — tokenisation & embeddings
+
+- Deep-dived into NLP fundamentals — tokenisation & embeddings with hands-on coding
+- Refactored yesterday's code for clarity and efficiency
+- Opened issues for follow-up items
+
+> Session ended at 07:35:18 UTC
