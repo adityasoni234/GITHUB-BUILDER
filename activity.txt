@@ -1,1 +1,1 @@
-Last updated: 17:38:36 UTC | Session: Night     (10:00 PM IST) | Topic: REST API design for ML model serving
+Last updated: 08:02:40 UTC | Session: Afternoon (02:00 PM IST) | Topic: Neural Networks & Backpropagation
