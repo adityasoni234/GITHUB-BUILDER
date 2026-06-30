@@ -1,1 +1,1 @@
-Last updated: 16:08:23 UTC | Session: Night     (10:00 PM IST) | Topic: Data Preprocessing & Feature Engineering
+Last updated: 18:19:21 UTC | Session: Night     (10:00 PM IST) | Topic: NLP fundamentals — tokenisation & embeddings
