@@ -1,1 +1,1 @@
-Last updated: 11:25:10 UTC | Session: Night     (10:00 PM IST) | Topic: NLP fundamentals — tokenisation & embeddings
+Last updated: 16:03:54 UTC | Session: Night     (10:00 PM IST) | Topic: Transformer architecture & attention mechanism
