@@ -784,3 +784,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Cleaned up repo, removed dead code, updated docs
 
 > Session ended at 07:03:57 UTC
+
+---
+### 2026-07-08 — Night     (10:00 PM IST)
+**Topic:** NLP fundamentals — tokenisation & embeddings
+
+- Weekly review — consolidated notes on NLP fundamentals — tokenisation & embeddings
+- Planned next study sprint
+- Cleaned up repo, removed dead code, updated docs
+
+> Session ended at 10:36:14 UTC
