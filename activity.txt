@@ -1,1 +1,1 @@
-Last updated: 15:57:05 UTC | Session: Night     (10:00 PM IST) | Topic: Audio signal processing — MFCC & spectrograms
+Last updated: 18:08:15 UTC | Session: Night     (10:00 PM IST) | Topic: REST API design for ML model serving
