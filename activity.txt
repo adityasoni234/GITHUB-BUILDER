@@ -1,1 +1,1 @@
-Last updated: 18:08:15 UTC | Session: Night     (10:00 PM IST) | Topic: REST API design for ML model serving
+Last updated: 06:35:32 UTC | Session: Night     (10:00 PM IST) | Topic: Python OOP — design patterns in ML pipelines
