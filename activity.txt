@@ -1,1 +1,1 @@
-Last updated: 07:06:44 UTC | Session: Night     (10:00 PM IST) | Topic: Model Evaluation — precision, recall, F1, AUC
+Last updated: 10:07:47 UTC | Session: Night     (10:00 PM IST) | Topic: Hyperparameter tuning with Optuna
