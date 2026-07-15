@@ -1084,3 +1084,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 15:08:40 UTC
+
+---
+### 2026-07-15 — Night     (10:00 PM IST)
+**Topic:** NLP fundamentals — tokenisation & embeddings
+
+- Read research paper / documentation on NLP fundamentals — tokenisation & embeddings
+- Wrote summary notes and added code examples
+- Pushed practice code to a local branch
+
+> Session ended at 17:48:00 UTC
