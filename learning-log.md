@@ -1254,3 +1254,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Debugged an edge case and documented the fix
 
 > Session ended at 17:32:09 UTC
+
+---
+### 2026-07-20 — Night     (10:00 PM IST)
+**Topic:** Docker & model containerisation
+
+- Read research paper / documentation on Docker & model containerisation
+- Wrote summary notes and added code examples
+- Pushed practice code to a local branch
+
+> Session ended at 07:40:55 UTC
