@@ -1,1 +1,1 @@
-Last updated: 11:23:03 UTC | Session: Night     (10:00 PM IST) | Topic: Python OOP — design patterns in ML pipelines
+Last updated: 15:29:58 UTC | Session: Night     (10:00 PM IST) | Topic: Pandas & NumPy vectorisation techniques
