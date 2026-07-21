@@ -1,1 +1,1 @@
-Last updated: 10:39:04 UTC | Session: Night     (10:00 PM IST) | Topic: Python OOP — design patterns in ML pipelines
+Last updated: 15:22:57 UTC | Session: Night     (10:00 PM IST) | Topic: Hyperparameter tuning with Optuna
