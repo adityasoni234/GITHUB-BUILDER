@@ -1,1 +1,1 @@
-Last updated: 15:33:15 UTC | Session: Night     (10:00 PM IST) | Topic: Git workflows — branching, rebasing, CI/CD
+Last updated: 17:55:40 UTC | Session: Night     (10:00 PM IST) | Topic: Reinforcement Learning basics — Q-learning
