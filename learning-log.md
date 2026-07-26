@@ -1494,3 +1494,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 17:31:28 UTC
+
+---
+### 2026-07-26 — Night     (10:00 PM IST)
+**Topic:** Model Evaluation — precision, recall, F1, AUC
+
+- Worked through exercises on Model Evaluation — precision, recall, F1, AUC
+- Compared multiple approaches and benchmarked results
+- Updated project README with findings
+
+> Session ended at 07:10:19 UTC
