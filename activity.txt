@@ -1,1 +1,1 @@
-Last updated: 10:58:15 UTC | Session: Night     (10:00 PM IST) | Topic: Git workflows — branching, rebasing, CI/CD
+Last updated: 15:51:41 UTC | Session: Night     (10:00 PM IST) | Topic: Neural Networks & Backpropagation
