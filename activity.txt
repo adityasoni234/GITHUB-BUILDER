@@ -1,1 +1,1 @@
-Last updated: 11:04:22 UTC | Session: Night     (10:00 PM IST) | Topic: NLP fundamentals — tokenisation & embeddings
+Last updated: 15:57:39 UTC | Session: Night     (10:00 PM IST) | Topic: Hyperparameter tuning with Optuna
