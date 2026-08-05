@@ -1924,3 +1924,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Updated project README with findings
 
 > Session ended at 15:39:58 UTC
+
+---
+### 2026-08-05 — Night     (10:00 PM IST)
+**Topic:** Reinforcement Learning basics — Q-learning
+
+- Worked through exercises on Reinforcement Learning basics — Q-learning
+- Compared multiple approaches and benchmarked results
+- Updated project README with findings
+
+> Session ended at 18:05:34 UTC
