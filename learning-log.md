@@ -1894,3 +1894,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 18:11:24 UTC
+
+---
+### 2026-08-05 — Night     (10:00 PM IST)
+**Topic:** Neural Networks & Backpropagation
+
+- Worked through exercises on Neural Networks & Backpropagation
+- Compared multiple approaches and benchmarked results
+- Updated project README with findings
+
+> Session ended at 07:15:00 UTC
