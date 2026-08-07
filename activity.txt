@@ -1,1 +1,1 @@
-Last updated: 11:01:41 UTC | Session: Night     (10:00 PM IST) | Topic: CNNs — convolution, pooling, receptive fields
+Last updated: 05:55:48 UTC | Session: Night     (10:00 PM IST) | Topic: Neural Networks & Backpropagation
