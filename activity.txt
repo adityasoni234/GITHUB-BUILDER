@@ -1,1 +1,1 @@
-Last updated: 14:33:12 UTC | Session: Night     (10:00 PM IST) | Topic: Git workflows — branching, rebasing, CI/CD
+Last updated: 17:23:52 UTC | Session: Night     (10:00 PM IST) | Topic: Docker & model containerisation
