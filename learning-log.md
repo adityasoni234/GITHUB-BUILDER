@@ -2254,3 +2254,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 14:32:07 UTC
+
+---
+### 2026-08-14 — Night     (10:00 PM IST)
+**Topic:** CNNs — convolution, pooling, receptive fields
+
+- Read research paper / documentation on CNNs — convolution, pooling, receptive fields
+- Wrote summary notes and added code examples
+- Pushed practice code to a local branch
+
+> Session ended at 17:29:42 UTC
