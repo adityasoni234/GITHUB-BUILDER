@@ -1,1 +1,1 @@
-Last updated: 13:53:13 UTC | Session: Evening   (07:00 PM IST) | Topic: Python OOP — design patterns in ML pipelines
+Last updated: 16:51:03 UTC | Session: Night     (10:00 PM IST) | Topic: CNNs — convolution, pooling, receptive fields
