@@ -2264,3 +2264,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 17:29:42 UTC
+
+---
+### 2026-08-15 — Morning   (10:00 AM IST)
+**Topic:** Hyperparameter tuning with Optuna
+
+- Worked through exercises on Hyperparameter tuning with Optuna
+- Compared multiple approaches and benchmarked results
+- Updated project README with findings
+
+> Session ended at 04:57:01 UTC
