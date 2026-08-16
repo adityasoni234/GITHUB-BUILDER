@@ -1,1 +1,1 @@
-Last updated: 13:54:30 UTC | Session: Evening   (07:00 PM IST) | Topic: NLP fundamentals — tokenisation & embeddings
+Last updated: 16:51:51 UTC | Session: Night     (10:00 PM IST) | Topic: Pandas & NumPy vectorisation techniques
