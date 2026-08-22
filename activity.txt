@@ -1,1 +1,1 @@
-Last updated: 17:01:48 UTC | Session: Night     (10:00 PM IST) | Topic: Docker & model containerisation
+Last updated: 04:59:44 UTC | Session: Morning   (10:00 AM IST) | Topic: Neural Networks & Backpropagation
