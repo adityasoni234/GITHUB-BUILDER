@@ -1,1 +1,1 @@
-Last updated: 08:58:40 UTC | Session: Afternoon (02:00 PM IST) | Topic: Neural Networks & Backpropagation
+Last updated: 13:55:23 UTC | Session: Evening   (07:00 PM IST) | Topic: Audio signal processing — MFCC & spectrograms
