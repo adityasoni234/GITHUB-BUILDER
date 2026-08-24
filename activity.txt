@@ -1,1 +1,1 @@
-Last updated: 14:18:55 UTC | Session: Night     (10:00 PM IST) | Topic: Docker & model containerisation
+Last updated: 17:05:32 UTC | Session: Night     (10:00 PM IST) | Topic: Data Preprocessing & Feature Engineering
