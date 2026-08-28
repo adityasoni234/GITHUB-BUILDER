@@ -1,1 +1,1 @@
-Last updated: 20:19:20 UTC | Session: Night     (10:00 PM IST) | Topic: Transformer architecture & attention mechanism
+Last updated: 23:10:05 UTC | Session: Night     (10:00 PM IST) | Topic: Reinforcement Learning basics — Q-learning
