@@ -1,1 +1,1 @@
-Last updated: 01:03:56 UTC | Session: Night     (10:00 PM IST) | Topic: NLP fundamentals — tokenisation & embeddings
+Last updated: 16:49:53 UTC | Session: Night     (10:00 PM IST) | Topic: Model Evaluation — precision, recall, F1, AUC
