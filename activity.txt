@@ -1,1 +1,1 @@
-Last updated: 11:17:25 UTC | Session: Night     (10:00 PM IST) | Topic: Neural Networks & Backpropagation
+Last updated: 13:57:38 UTC | Session: Evening   (07:00 PM IST) | Topic: Python OOP — design patterns in ML pipelines
