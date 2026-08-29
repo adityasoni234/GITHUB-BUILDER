@@ -1,1 +1,1 @@
-Last updated: 00:37:14 UTC | Session: Night     (10:00 PM IST) | Topic: NLP fundamentals — tokenisation & embeddings
+Last updated: 11:17:25 UTC | Session: Night     (10:00 PM IST) | Topic: Neural Networks & Backpropagation
