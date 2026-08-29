@@ -1,1 +1,1 @@
-Last updated: 17:20:09 UTC | Session: Night     (10:00 PM IST) | Topic: Pandas & NumPy vectorisation techniques
+Last updated: 19:28:30 UTC | Session: Night     (10:00 PM IST) | Topic: Transformer architecture & attention mechanism
