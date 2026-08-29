@@ -2814,3 +2814,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Debugged an edge case and documented the fix
 
 > Session ended at 23:10:05 UTC
+
+---
+### 2026-08-29 — Night     (10:00 PM IST)
+**Topic:** NLP fundamentals — tokenisation & embeddings
+
+- Read research paper / documentation on NLP fundamentals — tokenisation & embeddings
+- Wrote summary notes and added code examples
+- Pushed practice code to a local branch
+
+> Session ended at 00:37:14 UTC
