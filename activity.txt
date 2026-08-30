@@ -1,1 +1,1 @@
-Last updated: 19:28:30 UTC | Session: Night     (10:00 PM IST) | Topic: Transformer architecture & attention mechanism
+Last updated: 10:03:00 UTC | Session: Night     (10:00 PM IST) | Topic: Neural Networks & Backpropagation
