@@ -2944,3 +2944,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Opened issues for follow-up items
 
 > Session ended at 21:34:05 UTC
+
+---
+### 2026-09-01 — Night     (10:00 PM IST)
+**Topic:** Neural Networks & Backpropagation
+
+- Weekly review — consolidated notes on Neural Networks & Backpropagation
+- Planned next study sprint
+- Cleaned up repo, removed dead code, updated docs
+
+> Session ended at 09:32:16 UTC
