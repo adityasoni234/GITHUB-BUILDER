@@ -2954,3 +2954,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Cleaned up repo, removed dead code, updated docs
 
 > Session ended at 09:32:16 UTC
+
+---
+### 2026-09-01 — Evening   (07:00 PM IST)
+**Topic:** CNNs — convolution, pooling, receptive fields
+
+- Weekly review — consolidated notes on CNNs — convolution, pooling, receptive fields
+- Planned next study sprint
+- Cleaned up repo, removed dead code, updated docs
+
+> Session ended at 13:38:08 UTC
