@@ -1,1 +1,1 @@
-Last updated: 12:57:33 UTC | Session: Night     (10:00 PM IST) | Topic: Pandas & NumPy vectorisation techniques
+Last updated: 17:07:33 UTC | Session: Night     (10:00 PM IST) | Topic: Reinforcement Learning basics — Q-learning
