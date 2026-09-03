@@ -1,1 +1,1 @@
-Last updated: 17:07:33 UTC | Session: Night     (10:00 PM IST) | Topic: Reinforcement Learning basics — Q-learning
+Last updated: 19:22:23 UTC | Session: Night     (10:00 PM IST) | Topic: REST API design for ML model serving

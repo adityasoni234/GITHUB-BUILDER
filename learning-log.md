@@ -3054,3 +3054,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 17:07:33 UTC
+
+---
+### 2026-09-03 — Night     (10:00 PM IST)
+**Topic:** REST API design for ML model serving
+
+- Read research paper / documentation on REST API design for ML model serving
+- Wrote summary notes and added code examples
+- Pushed practice code to a local branch
+
+> Session ended at 19:22:23 UTC
