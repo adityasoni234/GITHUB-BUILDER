@@ -1,1 +1,1 @@
-Last updated: 09:05:01 UTC | Session: Night     (10:00 PM IST) | Topic: Neural Networks & Backpropagation
+Last updated: 12:57:33 UTC | Session: Night     (10:00 PM IST) | Topic: Pandas & NumPy vectorisation techniques
