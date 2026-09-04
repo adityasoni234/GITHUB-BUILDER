@@ -1,1 +1,1 @@
-Last updated: 08:58:33 UTC | Session: Afternoon (02:00 PM IST) | Topic: Neural Networks & Backpropagation
+Last updated: 12:52:23 UTC | Session: Night     (10:00 PM IST) | Topic: Hyperparameter tuning with Optuna
