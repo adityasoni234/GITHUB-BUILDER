@@ -3174,3 +3174,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Cleaned up repo, removed dead code, updated docs
 
 > Session ended at 16:24:00 UTC
+
+---
+### 2026-09-06 — Night     (10:00 PM IST)
+**Topic:** Data Preprocessing & Feature Engineering
+
+- Weekly review — consolidated notes on Data Preprocessing & Feature Engineering
+- Planned next study sprint
+- Cleaned up repo, removed dead code, updated docs
+
+> Session ended at 18:32:22 UTC
