@@ -1,1 +1,1 @@
-Last updated: 14:23:17 UTC | Session: Night     (10:00 PM IST) | Topic: Docker & model containerisation
+Last updated: 18:20:55 UTC | Session: Night     (10:00 PM IST) | Topic: Python OOP — design patterns in ML pipelines
