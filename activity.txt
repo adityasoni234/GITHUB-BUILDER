@@ -1,1 +1,1 @@
-Last updated: 17:22:45 UTC | Session: Night     (10:00 PM IST) | Topic: Python OOP — design patterns in ML pipelines
+Last updated: 19:31:06 UTC | Session: Night     (10:00 PM IST) | Topic: Model Evaluation — precision, recall, F1, AUC
