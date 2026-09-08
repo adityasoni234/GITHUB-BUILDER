@@ -3234,3 +3234,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 08:59:12 UTC
+
+---
+### 2026-09-08 — Evening   (07:00 PM IST)
+**Topic:** Docker & model containerisation
+
+- Read research paper / documentation on Docker & model containerisation
+- Wrote summary notes and added code examples
+- Pushed practice code to a local branch
+
+> Session ended at 13:00:13 UTC
