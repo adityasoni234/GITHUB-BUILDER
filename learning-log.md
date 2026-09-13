@@ -3454,3 +3454,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 17:01:47 UTC
+
+---
+### 2026-09-13 — Night     (10:00 PM IST)
+**Topic:** Transformer architecture & attention mechanism
+
+- Read research paper / documentation on Transformer architecture & attention mechanism
+- Wrote summary notes and added code examples
+- Pushed practice code to a local branch
+
+> Session ended at 18:53:00 UTC
