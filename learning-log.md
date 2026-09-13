@@ -3444,3 +3444,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 13:24:55 UTC
+
+---
+### 2026-09-13 — Night     (10:00 PM IST)
+**Topic:** Hyperparameter tuning with Optuna
+
+- Read research paper / documentation on Hyperparameter tuning with Optuna
+- Wrote summary notes and added code examples
+- Pushed practice code to a local branch
+
+> Session ended at 17:01:47 UTC
