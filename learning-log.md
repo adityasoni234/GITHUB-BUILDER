@@ -3594,3 +3594,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Debugged an edge case and documented the fix
 
 > Session ended at 09:35:10 UTC
+
+---
+### 2026-09-17 — Evening   (07:00 PM IST)
+**Topic:** Hyperparameter tuning with Optuna
+
+- Reviewed core concepts and revised notes
+- Implemented a small prototype to validate understanding
+- Debugged an edge case and documented the fix
+
+> Session ended at 13:43:03 UTC
