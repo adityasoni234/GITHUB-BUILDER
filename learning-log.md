@@ -3674,3 +3674,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Updated project README with findings
 
 > Session ended at 08:53:57 UTC
+
+---
+### 2026-09-19 — Night     (10:00 PM IST)
+**Topic:** Transformer architecture & attention mechanism
+
+- Worked through exercises on Transformer architecture & attention mechanism
+- Compared multiple approaches and benchmarked results
+- Updated project README with findings
+
+> Session ended at 12:38:39 UTC
