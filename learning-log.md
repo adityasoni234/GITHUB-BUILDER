@@ -3724,3 +3724,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Opened issues for follow-up items
 
 > Session ended at 13:10:29 UTC
+
+---
+### 2026-09-20 — Night     (10:00 PM IST)
+**Topic:** REST API design for ML model serving
+
+- Deep-dived into REST API design for ML model serving with hands-on coding
+- Refactored yesterday's code for clarity and efficiency
+- Opened issues for follow-up items
+
+> Session ended at 16:57:02 UTC
