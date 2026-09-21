@@ -3754,3 +3754,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Cleaned up repo, removed dead code, updated docs
 
 > Session ended at 10:08:07 UTC
+
+---
+### 2026-09-21 — Night     (10:00 PM IST)
+**Topic:** REST API design for ML model serving
+
+- Weekly review — consolidated notes on REST API design for ML model serving
+- Planned next study sprint
+- Cleaned up repo, removed dead code, updated docs
+
+> Session ended at 15:16:41 UTC
