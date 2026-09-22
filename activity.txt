@@ -1,1 +1,1 @@
-Last updated: 20:29:53 UTC | Session: Night     (10:00 PM IST) | Topic: Model Evaluation — precision, recall, F1, AUC
+Last updated: 09:25:11 UTC | Session: Night     (10:00 PM IST) | Topic: Neural Networks & Backpropagation
