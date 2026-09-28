@@ -4024,3 +4024,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Debugged an edge case and documented the fix
 
 > Session ended at 19:49:54 UTC
+
+---
+### 2026-09-28 — Night     (10:00 PM IST)
+**Topic:** Python OOP — design patterns in ML pipelines
+
+- Read research paper / documentation on Python OOP — design patterns in ML pipelines
+- Wrote summary notes and added code examples
+- Pushed practice code to a local branch
+
+> Session ended at 11:08:17 UTC
