@@ -4094,3 +4094,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Updated project README with findings
 
 > Session ended at 18:48:50 UTC
+
+---
+### 2026-09-29 — Night     (10:00 PM IST)
+**Topic:** Docker & model containerisation
+
+- Worked through exercises on Docker & model containerisation
+- Compared multiple approaches and benchmarked results
+- Updated project README with findings
+
+> Session ended at 20:58:19 UTC
