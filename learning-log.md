@@ -4064,3 +4064,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 22:13:45 UTC
+
+---
+### 2026-09-29 — Night     (10:00 PM IST)
+**Topic:** Python OOP — design patterns in ML pipelines
+
+- Worked through exercises on Python OOP — design patterns in ML pipelines
+- Compared multiple approaches and benchmarked results
+- Updated project README with findings
+
+> Session ended at 10:50:10 UTC
