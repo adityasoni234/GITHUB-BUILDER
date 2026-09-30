@@ -1,1 +1,1 @@
-Last updated: 20:58:19 UTC | Session: Night     (10:00 PM IST) | Topic: Docker & model containerisation
+Last updated: 10:40:00 UTC | Session: Night     (10:00 PM IST) | Topic: NLP fundamentals — tokenisation & embeddings
