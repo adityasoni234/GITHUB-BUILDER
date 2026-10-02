@@ -1,1 +1,1 @@
-Last updated: 18:38:42 UTC | Session: Night     (10:00 PM IST) | Topic: REST API design for ML model serving
+Last updated: 20:52:39 UTC | Session: Night     (10:00 PM IST) | Topic: Data Preprocessing & Feature Engineering
