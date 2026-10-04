@@ -1,1 +1,1 @@
-Last updated: 14:17:21 UTC | Session: Night     (10:00 PM IST) | Topic: Reinforcement Learning basics — Q-learning
+Last updated: 17:46:57 UTC | Session: Night     (10:00 PM IST) | Topic: Neural Networks & Backpropagation
