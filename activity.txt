@@ -1,1 +1,1 @@
-Last updated: 21:28:55 UTC | Session: Night     (10:00 PM IST) | Topic: Hyperparameter tuning with Optuna
+Last updated: 11:32:12 UTC | Session: Night     (10:00 PM IST) | Topic: Docker & model containerisation
