@@ -4754,3 +4754,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Cleaned up repo, removed dead code, updated docs
 
 > Session ended at 09:11:28 UTC
+
+---
+### 2026-10-16 — Evening   (07:00 PM IST)
+**Topic:** Transformer architecture & attention mechanism
+
+- Weekly review — consolidated notes on Transformer architecture & attention mechanism
+- Planned next study sprint
+- Cleaned up repo, removed dead code, updated docs
+
+> Session ended at 13:27:23 UTC
