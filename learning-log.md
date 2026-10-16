@@ -4764,3 +4764,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Cleaned up repo, removed dead code, updated docs
 
 > Session ended at 13:27:23 UTC
+
+---
+### 2026-10-16 — Night     (10:00 PM IST)
+**Topic:** Docker & model containerisation
+
+- Weekly review — consolidated notes on Docker & model containerisation
+- Planned next study sprint
+- Cleaned up repo, removed dead code, updated docs
+
+> Session ended at 17:38:30 UTC
