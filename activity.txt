@@ -1,1 +1,1 @@
-Last updated: 18:48:43 UTC | Session: Night     (10:00 PM IST) | Topic: Data Preprocessing & Feature Engineering
+Last updated: 10:08:25 UTC | Session: Night     (10:00 PM IST) | Topic: Transformer architecture & attention mechanism
