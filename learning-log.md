@@ -4874,3 +4874,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Updated project README with findings
 
 > Session ended at 10:08:25 UTC
+
+---
+### 2026-10-19 — Night     (10:00 PM IST)
+**Topic:** REST API design for ML model serving
+
+- Worked through exercises on REST API design for ML model serving
+- Compared multiple approaches and benchmarked results
+- Updated project README with findings
+
+> Session ended at 15:48:50 UTC
