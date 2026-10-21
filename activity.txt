@@ -1,1 +1,1 @@
-Last updated: 18:12:31 UTC | Session: Night     (10:00 PM IST) | Topic: Model Evaluation — precision, recall, F1, AUC
+Last updated: 20:18:25 UTC | Session: Night     (10:00 PM IST) | Topic: Pandas & NumPy vectorisation techniques

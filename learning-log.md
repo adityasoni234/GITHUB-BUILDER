@@ -4974,3 +4974,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Cleaned up repo, removed dead code, updated docs
 
 > Session ended at 18:12:31 UTC
+
+---
+### 2026-10-21 — Night     (10:00 PM IST)
+**Topic:** Pandas & NumPy vectorisation techniques
+
+- Weekly review — consolidated notes on Pandas & NumPy vectorisation techniques
+- Planned next study sprint
+- Cleaned up repo, removed dead code, updated docs
+
+> Session ended at 20:18:25 UTC
