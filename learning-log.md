@@ -5004,3 +5004,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Debugged an edge case and documented the fix
 
 > Session ended at 14:01:01 UTC
+
+---
+### 2026-10-22 — Night     (10:00 PM IST)
+**Topic:** CNNs — convolution, pooling, receptive fields
+
+- Reviewed core concepts and revised notes
+- Implemented a small prototype to validate understanding
+- Debugged an edge case and documented the fix
+
+> Session ended at 18:07:03 UTC
