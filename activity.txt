@@ -1,1 +1,1 @@
-Last updated: 10:58:16 UTC | Session: Night     (10:00 PM IST) | Topic: CNNs — convolution, pooling, receptive fields
+Last updated: 15:13:10 UTC | Session: Night     (10:00 PM IST) | Topic: Audio signal processing — MFCC & spectrograms
