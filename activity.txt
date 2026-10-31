@@ -1,1 +1,1 @@
-Last updated: 10:30:53 UTC | Session: Night     (10:00 PM IST) | Topic: Pandas & NumPy vectorisation techniques
+Last updated: 14:40:39 UTC | Session: Night     (10:00 PM IST) | Topic: Audio signal processing — MFCC & spectrograms
