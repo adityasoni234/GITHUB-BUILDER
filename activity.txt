@@ -1,1 +1,1 @@
-Last updated: 20:58:33 UTC | Session: Night     (10:00 PM IST) | Topic: Data Preprocessing & Feature Engineering
+Last updated: 10:30:53 UTC | Session: Night     (10:00 PM IST) | Topic: Pandas & NumPy vectorisation techniques
