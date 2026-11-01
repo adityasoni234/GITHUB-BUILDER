@@ -1,1 +1,1 @@
-Last updated: 20:11:11 UTC | Session: Night     (10:00 PM IST) | Topic: Python OOP — design patterns in ML pipelines
+Last updated: 11:25:53 UTC | Session: Night     (10:00 PM IST) | Topic: Transformer architecture & attention mechanism
