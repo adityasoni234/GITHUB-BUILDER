@@ -5474,3 +5474,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Updated project README with findings
 
 > Session ended at 12:11:55 UTC
+
+---
+### 2026-11-03 — Night     (10:00 PM IST)
+**Topic:** Data Preprocessing & Feature Engineering
+
+- Worked through exercises on Data Preprocessing & Feature Engineering
+- Compared multiple approaches and benchmarked results
+- Updated project README with findings
+
+> Session ended at 16:27:00 UTC
