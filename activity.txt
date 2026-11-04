@@ -1,1 +1,1 @@
-Last updated: 21:53:21 UTC | Session: Night     (10:00 PM IST) | Topic: Pandas & NumPy vectorisation techniques
+Last updated: 12:23:54 UTC | Session: Night     (10:00 PM IST) | Topic: Docker & model containerisation
