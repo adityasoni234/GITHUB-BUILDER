@@ -5574,3 +5574,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Cleaned up repo, removed dead code, updated docs
 
 > Session ended at 20:46:53 UTC
+
+---
+### 2026-11-05 — Night     (10:00 PM IST)
+**Topic:** Git workflows — branching, rebasing, CI/CD
+
+- Weekly review — consolidated notes on Git workflows — branching, rebasing, CI/CD
+- Planned next study sprint
+- Cleaned up repo, removed dead code, updated docs
+
+> Session ended at 22:11:19 UTC
