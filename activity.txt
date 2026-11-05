@@ -1,1 +1,1 @@
-Last updated: 12:38:45 UTC | Session: Night     (10:00 PM IST) | Topic: REST API design for ML model serving
+Last updated: 16:41:00 UTC | Session: Night     (10:00 PM IST) | Topic: NLP fundamentals — tokenisation & embeddings
