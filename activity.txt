@@ -1,1 +1,1 @@
-Last updated: 15:30:09 UTC | Session: Night     (10:00 PM IST) | Topic: CNNs — convolution, pooling, receptive fields
+Last updated: 18:26:48 UTC | Session: Night     (10:00 PM IST) | Topic: Transformer architecture & attention mechanism
