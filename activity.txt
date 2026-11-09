@@ -1,1 +1,1 @@
-Last updated: 13:13:10 UTC | Session: Evening   (07:00 PM IST) | Topic: Model Evaluation — precision, recall, F1, AUC
+Last updated: 19:01:35 UTC | Session: Night     (10:00 PM IST) | Topic: Audio signal processing — MFCC & spectrograms
