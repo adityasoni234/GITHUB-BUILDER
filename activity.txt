@@ -1,1 +1,1 @@
-Last updated: 16:33:06 UTC | Session: Night     (10:00 PM IST) | Topic: Transformer architecture & attention mechanism
+Last updated: 20:33:40 UTC | Session: Night     (10:00 PM IST) | Topic: Docker & model containerisation
