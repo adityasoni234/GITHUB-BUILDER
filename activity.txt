@@ -1,1 +1,1 @@
-Last updated: 20:33:40 UTC | Session: Night     (10:00 PM IST) | Topic: Docker & model containerisation
+Last updated: 21:53:12 UTC | Session: Night     (10:00 PM IST) | Topic: REST API design for ML model serving
