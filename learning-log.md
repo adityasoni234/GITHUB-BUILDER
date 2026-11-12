@@ -5824,3 +5824,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 13:05:09 UTC
+
+---
+### 2026-11-12 — Night     (10:00 PM IST)
+**Topic:** Audio signal processing — MFCC & spectrograms
+
+- Read research paper / documentation on Audio signal processing — MFCC & spectrograms
+- Wrote summary notes and added code examples
+- Pushed practice code to a local branch
+
+> Session ended at 16:59:58 UTC

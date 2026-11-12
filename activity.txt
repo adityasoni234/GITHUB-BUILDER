@@ -1,1 +1,1 @@
-Last updated: 13:05:09 UTC | Session: Evening   (07:00 PM IST) | Topic: Hyperparameter tuning with Optuna
+Last updated: 16:59:58 UTC | Session: Night     (10:00 PM IST) | Topic: Audio signal processing — MFCC & spectrograms
