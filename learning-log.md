@@ -5974,3 +5974,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Cleaned up repo, removed dead code, updated docs
 
 > Session ended at 21:09:18 UTC
+
+---
+### 2026-11-16 — Evening   (07:00 PM IST)
+**Topic:** Reinforcement Learning basics — Q-learning
+
+- Reviewed core concepts and revised notes
+- Implemented a small prototype to validate understanding
+- Debugged an edge case and documented the fix
+
+> Session ended at 13:02:18 UTC
