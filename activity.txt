@@ -1,1 +1,1 @@
-Last updated: 13:02:18 UTC | Session: Evening   (07:00 PM IST) | Topic: Reinforcement Learning basics — Q-learning
+Last updated: 18:48:39 UTC | Session: Night     (10:00 PM IST) | Topic: Python OOP — design patterns in ML pipelines
