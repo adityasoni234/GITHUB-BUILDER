@@ -6004,3 +6004,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Debugged an edge case and documented the fix
 
 > Session ended at 22:59:11 UTC
+
+---
+### 2026-11-17 — Night     (10:00 PM IST)
+**Topic:** REST API design for ML model serving
+
+- Read research paper / documentation on REST API design for ML model serving
+- Wrote summary notes and added code examples
+- Pushed practice code to a local branch
+
+> Session ended at 00:23:21 UTC
