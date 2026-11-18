@@ -6084,3 +6084,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Updated project README with findings
 
 > Session ended at 21:31:30 UTC
+
+---
+### 2026-11-18 — Night     (10:00 PM IST)
+**Topic:** Git workflows — branching, rebasing, CI/CD
+
+- Worked through exercises on Git workflows — branching, rebasing, CI/CD
+- Compared multiple approaches and benchmarked results
+- Updated project README with findings
+
+> Session ended at 23:00:58 UTC
