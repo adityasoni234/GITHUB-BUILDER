@@ -6054,3 +6054,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 23:36:33 UTC
+
+---
+### 2026-11-18 — Evening   (07:00 PM IST)
+**Topic:** REST API design for ML model serving
+
+- Worked through exercises on REST API design for ML model serving
+- Compared multiple approaches and benchmarked results
+- Updated project README with findings
+
+> Session ended at 13:18:44 UTC
