@@ -6134,3 +6134,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Opened issues for follow-up items
 
 > Session ended at 23:09:34 UTC
+
+---
+### 2026-11-20 — Evening   (07:00 PM IST)
+**Topic:** Data Preprocessing & Feature Engineering
+
+- Weekly review — consolidated notes on Data Preprocessing & Feature Engineering
+- Planned next study sprint
+- Cleaned up repo, removed dead code, updated docs
+
+> Session ended at 13:26:33 UTC
