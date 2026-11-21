@@ -6204,3 +6204,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Debugged an edge case and documented the fix
 
 > Session ended at 20:12:41 UTC
+
+---
+### 2026-11-21 — Night     (10:00 PM IST)
+**Topic:** Audio signal processing — MFCC & spectrograms
+
+- Reviewed core concepts and revised notes
+- Implemented a small prototype to validate understanding
+- Debugged an edge case and documented the fix
+
+> Session ended at 21:48:31 UTC
