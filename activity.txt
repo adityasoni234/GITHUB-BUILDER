@@ -1,1 +1,1 @@
-Last updated: 20:26:32 UTC | Session: Night     (10:00 PM IST) | Topic: Audio signal processing — MFCC & spectrograms
+Last updated: 21:56:32 UTC | Session: Night     (10:00 PM IST) | Topic: Reinforcement Learning basics — Q-learning

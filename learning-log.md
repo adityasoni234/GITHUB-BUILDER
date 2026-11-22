@@ -6244,3 +6244,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 20:26:32 UTC
+
+---
+### 2026-11-22 — Night     (10:00 PM IST)
+**Topic:** Reinforcement Learning basics — Q-learning
+
+- Read research paper / documentation on Reinforcement Learning basics — Q-learning
+- Wrote summary notes and added code examples
+- Pushed practice code to a local branch
+
+> Session ended at 21:56:32 UTC
