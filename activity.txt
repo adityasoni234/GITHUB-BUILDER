@@ -1,1 +1,1 @@
-Last updated: 14:47:51 UTC | Session: Night     (10:00 PM IST) | Topic: Hyperparameter tuning with Optuna
+Last updated: 18:46:47 UTC | Session: Night     (10:00 PM IST) | Topic: Reinforcement Learning basics — Q-learning
