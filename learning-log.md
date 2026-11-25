@@ -6324,3 +6324,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Opened issues for follow-up items
 
 > Session ended at 23:13:05 UTC
+
+---
+### 2026-11-25 — Night     (10:00 PM IST)
+**Topic:** Hyperparameter tuning with Optuna
+
+- Weekly review — consolidated notes on Hyperparameter tuning with Optuna
+- Planned next study sprint
+- Cleaned up repo, removed dead code, updated docs
+
+> Session ended at 00:58:51 UTC
