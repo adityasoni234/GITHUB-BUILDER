@@ -6414,3 +6414,13 @@ Updated automatically 4× a day via GitHub Actions.
 - Pushed practice code to a local branch
 
 > Session ended at 00:43:59 UTC
+
+---
+### 2026-11-27 — Night     (10:00 PM IST)
+**Topic:** Git workflows — branching, rebasing, CI/CD
+
+- Read research paper / documentation on Git workflows — branching, rebasing, CI/CD
+- Wrote summary notes and added code examples
+- Pushed practice code to a local branch
+
+> Session ended at 14:09:28 UTC
